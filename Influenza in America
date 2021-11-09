@@ -1,26 +1,22 @@
+The purpose of this analysis is to identify trends of influenza deaths in America using the historical data from 2009 to 2017 and estimate the number of deaths possibilities in 2018
 
-The purpose of this analysis is to identify trends of Influenza in America using the data from 2009 to 2017 and project possible no of deaths that may happen
-due to flu in 2018
+Key Questions
 
-Questions:
-	
+•	Is there a Flu season?
 
-	•	Is there a Flu season?
-	
-	•	Are certain age groups more vulnerable to Flu than others?
-	
-	•	Which are the most affected states in America due to Flu?
-	
-	•	Is vaccine effective to prevent death from Flu?
-	
-	•	Do we have enough medical staff and resources available to handle 2018 Flu season and prevent some deaths by attending to patients promptly?
-	
+•	Are certain age groups more vulnerable than others?
 
-	The data for this analysis was downloaded from CDC website and was processed using Excel
-	
+•	Which are the most affected states in America due to Flu?
 
-	Below is the link for Tableau visualization for this analysis
+•	Is vaccine effective to prevent spread of Flu?
 
+•	Are there enough medical staff and hospitals in the most affected areas?
 
+Data Source:
+Center for Disease Control, USA
 
+Tools used:
+The data was cleaned and analyzed using Excel and then uploaded to Tableau for visualization
+
+Tableau Visualization link
 https://public.tableau.com/app/profile/rajiv5350/viz/FluseasoninAmerica-Analysis/Story4?publish=yes
